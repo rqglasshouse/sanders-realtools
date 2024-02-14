@@ -3,7 +3,7 @@
 $host = "localhost";
 $username = "root";
 $password = "";
-$database = "whdfbujusw";
+$database = "";
 
 
 // Create DB Connection
