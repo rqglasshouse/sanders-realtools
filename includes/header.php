@@ -20,4 +20,3 @@
   <link id="pagestyle" href="assets/css/material-dashboard.css" rel="stylesheet" />
   
   
-  <?php include('includes/navbar.php');?>

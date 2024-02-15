@@ -15,8 +15,8 @@
 </footer>
 </main>
 
-
-<script src="../assets/js/bootstrap.min.js"></script>
+<script src="https://code.jquery.com/jquery-3.6.0.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
+<script src="	https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/js/bootstrap.bundle.min.js"></script>
 <script src="../assets/js/perfect-scrollbar.min.js"></script>
 <script src="../assets/js/smooth-scrollbar.min.js"></script>
 

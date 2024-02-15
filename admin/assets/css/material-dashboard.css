@@ -1161,6 +1161,14 @@ h3.bebas-neue {
 
 }
 
+#program-logos p {
+  font-weight: 600 !important;
+  font-family: 'Inter', Sans-serif;
+  font-size: .8em;
+  line-height: 1;
+
+}
+
 .software-descrip-alt p {
   font-weight: 400 !important;
   font-family: 'Baskervville', Sans-serif;
@@ -25250,6 +25258,7 @@ body:not(.dark-version) .sidenav.bg-transparent .collapse .nav-item .nav-link.ac
 
   .g-sidenav-show:not(.rtl) .sidenav {
     transform: translateX(-17.125rem);
+    padding-right: 5em;
   }
 
   .g-sidenav-show .sidenav.fixed-start+.main-content {

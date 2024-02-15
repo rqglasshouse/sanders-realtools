@@ -33,12 +33,13 @@
         else 
         {
           ?>
+<!-- Hidden Sign up
 <li class="nav-item">
           <a class="nav-link me-2" href="sign-up.php">
             <i class="fas fa-user-circle opacity-6 text-dark me-1"></i>
             Sign Up
           </a>
-        </li>
+        </li> -->
         <li class="nav-item">
             <a class="nav-link me-2" href="index.php">
               <i class="fas fa-key opacity-6 text-dark me-1"></i>

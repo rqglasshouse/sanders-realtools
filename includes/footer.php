@@ -1,17 +1,20 @@
-    <script src="assets/js/bootstrap.bundle.min.js"></script>
-    <script src="assets/jquery-3.
+<script src="assets/js/jquery-3.
     7.1.min.js"></script> 
+    <script src="assets/js/bootstrap.bundle.min.js"></script>
+    
   <script src="assets/js/plugins/perfect-scrollbar.min.js"></script>
   <script src="assets/js/plugins/smooth-scrollbar.min.js"></script>
   <script>
+  document.addEventListener('DOMContentLoaded', function () {
     var win = navigator.platform.indexOf('Win') > -1;
     if (win && document.querySelector('#sidenav-scrollbar')) {
       var options = {
-        damping: '0.5'
-      }
-      Scrollbar.init(document.querySelector('#sidenav-scrollbar'), options);
+        damping: 0.5
+      };
+      var scrollbar = new SmoothScrollbar(document.querySelector('#sidenav-scrollbar'), options);
     }
-  </script>
+  });
+</script>
   <!-- Github buttons -->
   <script async defer src="https://buttons.github.io/buttons.js"></script>
   <!-- Control Center for Material Dashboard: parallax effects, scripts for the example pages etc -->

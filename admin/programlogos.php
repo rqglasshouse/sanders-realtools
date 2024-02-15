@@ -37,9 +37,9 @@ include('includes/header.php');
   </div>
 
   <!-- Logo Examples -->
-  <div class="row software-description-alt story-description">
+  <div id="program-logos" class="row software-description-alt story-description">
     <!-- First Column -->
-    <div class="col-12 col-md-2 software-description-alt">
+    <div class="col-12 col-md-2 software-description">
       <div class="">
         <a href="assets/img/sanders_logo_realpath_1c_dark  Asset 13@4x.png" target="_blank" download>
           <img class="mt-3 img-fluid" src="assets/img/sanders-realpath-black.webp" alt="Realpath Black Logo" width="100%">
@@ -49,7 +49,7 @@ include('includes/header.php');
     </div>
 
     <!-- Second Column -->
-    <div class="col-12 col-md-2 software-description-alt">
+    <div class="col-12 col-md-2 software-description">
       <div class="">
         <a href="assets/img/sanders_logo_realpath_1c_gold   Asset 14@4x.png" target="_blank" download>
           <img class="mt-3 img-fluid" src="assets/img/sanders-realpath-gold.webp" alt="Sanders Realpath Gold Logo">

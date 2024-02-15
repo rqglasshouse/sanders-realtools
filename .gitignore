@@ -3,3 +3,4 @@ admin/assets/medialib/
 admin/assets/video/
 .htaccess_old
 config/dbcon.php
+config/.env

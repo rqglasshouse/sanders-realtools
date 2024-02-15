@@ -19,7 +19,7 @@ include('includes/header.php');
     </div>
   </div>
   <main class="main-content  mt-0">
-    <div class="page-header align-items-start min-vh-100" style="background-image: url('assets/sign-in-background.webp');">
+    <div class="page-header align-items-start min-vh-100" style="background-image: url('assets/sandersdiag.webp');">
       <span class="mask bg-gradient-dark opacity-6"></span>
       <div class="container my-auto">
         <div class="row">

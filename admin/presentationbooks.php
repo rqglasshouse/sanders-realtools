@@ -104,7 +104,7 @@ include('includes/header.php');
         <!-- First Column -->
         <div class="col-12 col-md-3">
           <div class="">
-            <a href="assets/pdf/buyersguide-2023.pdf" download target="_blank">
+            <a href="https://docs.google.com/document/d/1JCbfFo5ZgK9rg_j8T83E1SNYH0UOMJRMmARwXSzNxq8/edit" target="_blank">
               <img class="mt-3" src="assets/img/google_docs.webp" width="35%">
             </a>
           </div>
@@ -117,9 +117,9 @@ include('includes/header.php');
         <!-- Second Column -->
         <div class="col-12 col-md-3">
           <div class="">
-            
+            <a href="https://docs.google.com/document/d/1OaxGN4WQGVOYXFfw7_FQbItrWy-lcUpBEeD_q61xaZY/edit" target="_blank">
               <img class="mt-3" src="assets/img/google_docs.webp" width="35%">
-            
+</a>
           </div>
           <p class="mt-3">Listing Presentation</p>
           
