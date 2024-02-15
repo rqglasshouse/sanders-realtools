@@ -29,17 +29,6 @@ $current_page = basename($_SERVER['REQUEST_URI']);
       </li>
 
       <li class=" navbar-nav nav-item">
-        <a class="<?php echo ($current_page == 'story.php') ? 'active bg-gradient-primary' : ''; ?>  nav-link text-white " href="story.php">
-          <div class="text-white text-center me-2 d-flex align-items-center justify-content-center">
-            <span class="material-icons">
-              library_books
-            </span>
-          </div>
-          <span class="bebas-primary nav-link-text ms-1">Story</span>
-        </a>
-      </li>
-
-      <li class=" navbar-nav nav-item">
         <a class="<?php echo ($current_page == 'tools.php') ? 'active bg-gradient-primary' : ''; ?>  nav-link text-white " href="tools.php">
           <div class="text-white text-center me-2 d-flex align-items-center justify-content-center">
             <span class="material-symbols-outlined">construction</span>
@@ -70,14 +59,27 @@ $current_page = basename($_SERVER['REQUEST_URI']);
         </a>
       </li>
 
+
       <li class=" navbar-nav nav-item">
-        <a class="<?php echo ($current_page == 'guidelines.php') ? 'active bg-gradient-primary' : ''; ?>  nav-link text-white " href="guidelines.php">
+        <a class="<?php echo ($current_page == 'story.php') ? 'active bg-gradient-primary' : ''; ?>  nav-link text-white " href="story.php">
+          <div class="text-white text-center me-2 d-flex align-items-center justify-content-center">
+            <span class="material-icons">
+              library_books
+            </span>
+          </div>
+          <span class="bebas-primary nav-link-text ms-1">Story</span>
+        </a>
+      </li>
+
+      
+      <li class=" navbar-nav nav-item">
+        <a class="<?php echo ($current_page == 'primarylogos.php') ? 'active bg-gradient-primary' : ''; ?>  nav-link text-white " href="primarylogos.php">
           <div class="text-white text-center me-2 d-flex align-items-center justify-content-center">
             <span class="material-icons">
               assignment
             </span>
           </div>
-          <span class="bebas-primary nav-link-text ms-1">Guidelines</span>
+          <span class="bebas-primary nav-link-text ms-1">Primary Logos</span>
         </a>
       </li>
 

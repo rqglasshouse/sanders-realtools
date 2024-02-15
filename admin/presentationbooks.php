@@ -19,7 +19,7 @@ include('includes/header.php');
         <!-- First Column -->
         <div class="col-12 col-md-3">
           <div class="">
-            <a href="https://docs.google.com/presentation/d/1DLwVMp1JRf6k1DUBDyDlm8Vq1_MO_tCepuneD5L6yMA/edit#slide=id.g283b1d92fcb_0_0" download target="_blank">
+            <a href="https://docs.google.com/presentation/d/1DLwVMp1JRf6k1DUBDyDlm8Vq1_MO_tCepuneD5L6yMA/edit#slide=id.g283b1d92fcb_0_0" target="_blank">
               <img class="mt-3" src="assets/img/journeytohome.png" width="75%">
             </a>
           </div>
@@ -32,7 +32,7 @@ include('includes/header.php');
         <!-- Second Column -->
         <div class="col-12 col-md-3">
           <div class="">
-            <a href="assets/pdf/listingpresentation-v2.pdf" download target="_blank">
+            <a href="https://docs.google.com/presentation/d/1xxzMiBKR26BCOltsyO6LMGng5EdweRGI/edit#slide=id.p1" target="_blank">
               <img class="mt-3" src="assets/img/listingpresentation.png" width="75%">
             </a>
           </div>

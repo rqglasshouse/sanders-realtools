@@ -1,7 +1,7 @@
 <?php
 
 // Set page title
-$title = "Guidelines";
+$title = "Primary Logos";
 
 include('includes/header.php');
 
@@ -42,7 +42,7 @@ include('includes/header.php');
     <!-- First Column -->
     <div class="col-12 col-md-2 software-description">
       <div class="">
-        <a href="https://app.followupboss.com/login" target="_blank">
+        <a href="assets/img/sanders-logo.webp" target="_blank" download>
           <img class="mt-3 img-fluid" src="assets/img/sanders-logo.webp" alt="Sanders Primary Logo" width="100%">
         </a>
       </div>
@@ -52,7 +52,7 @@ include('includes/header.php');
     <!-- Second Column -->
     <div class="col-12 col-md-2 software-description">
       <div class="">
-        <a href="https://my.brokermint.com/users/sign_in#/" target="_blank">
+        <a href="assets/img/sanders-primarydark.webp" download target="_blank">
           <img class="mt-3 img-fluid" src="assets/img/sanders-primarydark.webp" alt="Sanders Primary Logo">
         </a>
       </div>
@@ -63,7 +63,7 @@ include('includes/header.php');
     <!-- Third Column -->
     <div class="col-12 col-md-2 software-description">
       <div class="">
-        <a href="https://calendar.google.com/calendar/u/0?cid=cmVhbHR5b25lZWRnZS5jb21fcjNxM2NybzRzcHEwcWtkamZtODkwcWM3OWdAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ" target="_blank">
+        <a href="assets/img/sanders-primarylight.webp" download target="_blank">
           <img class="mt-3 img-fluid" src="assets/img/sanders-primarylight.webp">
         </a>
       </div>
@@ -78,7 +78,7 @@ include('includes/header.php');
     <!-- First Column -->
     <div class="col-12 col-md-2 software-description">
       <div class="">
-        <a href="https://app.followupboss.com/login" target="_blank">
+        <a href="assets/img/sanders-primaryblack.webp" download target="_blank">
           <img class="mt-3 img-fluid" src="assets/img/sanders-primaryblack.webp" width="100%">
         </a>
       </div>
@@ -88,7 +88,7 @@ include('includes/header.php');
     <!-- Second Column -->
     <div class="col-12 col-md-2 software-description">
       <div class="">
-        <a href="https://my.brokermint.com/users/sign_in#/" target="_blank">
+        <a href="assets/img/sanders-primarygold.webp" download target="_blank">
           <img class="mt-3 img-fluid" src="assets/img/sanders-primarygold.webp">
         </a>
       </div>
